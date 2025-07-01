@@ -1,2 +1,2 @@
-# Cpp-using-Singly-Linked-List
-C++ Programs for Singly Linked List
+# C++ using Singly Linked List.
+C++ Program language for creating Singly Linked List.
